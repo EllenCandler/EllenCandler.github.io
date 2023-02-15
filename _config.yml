@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ellen Candler"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Associate, PhD, Conservation Science-Wildlife Ecology and Management, Fisheries, Wildlife, and Conservation Biology, College of Food, Agriculture, and Natural Resource Sciences, University of Minnesota, Backcountry Hunter and Anglers-Minnesota Treasurer, Artemis Sportswomen-Minnesota Ambassador"
+  bio              : "Postdoctoral Associate, PhD, Conservation Science-Wildlife Ecology and Management"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :"belle130@umn.edu"
+  email            : "belle130@umn.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
