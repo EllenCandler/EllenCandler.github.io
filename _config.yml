@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Ellen Candler"
   avatar           : "profile.png"
   bio              : "Postdoctoral Associate , PhD, Conservation Science-Wildlife Ecology and Management, Fisheries, Wildlife, and Conservation Biology, College of Food, Agriculture, and Natural Resource Sciences, University of Minnesota, Backcountry Hunter and Anglers-Minnesota Treasurer, Artemis Sportswomen-Minnesota Ambassador "
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=ZejKMooAAAAJ"
   email            : "belle130@umn.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  # example: "https://www.researchgate.net/profile/Ellen-Candler"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "EllenCandler"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/ellen-candler-661291254/"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-5810-1942"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@offal_watcher"
   vine             :
   weibo            :
   xing             :
