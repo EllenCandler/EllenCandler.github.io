@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ellen Candler"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Ellen Candler"
 description              : &description "personal description"
 url                      : "https://EllenCandler.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Postdoctoral Associate , PhD, Conservation Science-Wildlife Ecology and Management, Fisheries, Wildlife, and Conservation Biology, College of Food, Agriculture, and Natural Resource Sciences, University of Minnesota, Backcountry Hunter and Anglers-Minnesota Treasurer, Artemis Sportswomen-Minnesota Ambassador "
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : 
+  email            : "belle130@umn.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
